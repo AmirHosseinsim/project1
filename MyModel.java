@@ -4,7 +4,7 @@ import javax.swing.JOptionPane;
 import javax.swing.table.DefaultTableModel;
 
 
-//salam
+//salam be rofagha
 /**
  * <h1>MyModel</h1>
  * 
