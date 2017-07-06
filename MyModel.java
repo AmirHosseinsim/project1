@@ -22,7 +22,7 @@ public class MyModel  {
 	private String URL="jdbc:mysql://localhost:3306/homework6?user=root";
 	public DefaultTableModel query(String sql){
 		try{
-			 
+			 // sddsfsdjfhdsk
 			Class.forName("com.mysql.jdbc.Driver").getInterfaces();
 			Connection con =DriverManager.getConnection(URL);
 			Statement st=con.createStatement();
