@@ -17,6 +17,7 @@ import javax.swing.table.DefaultTableModel;
  *            myid
  * @since 1396
  */
+//hghjgjhg
 public class MyModel  {
 	private String URL="jdbc:mysql://localhost:3306/homework6?user=root";
 	public DefaultTableModel query(String sql){
