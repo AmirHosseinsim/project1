@@ -57,6 +57,8 @@ public class MyModel  {
 		
 		
 	}
+
+// mohammadi
 	public void notQuery(String sql){
 		try{
 		Class.forName("com.mysql.jdbc.Driver").getInterfaces();
@@ -70,5 +72,3 @@ public class MyModel  {
 	
 
 }
-
-
